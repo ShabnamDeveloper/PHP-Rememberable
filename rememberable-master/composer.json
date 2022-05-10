@@ -1,0 +1,20 @@
+{
+    "name": "Rememberable",
+    "keywords": [
+        "laravel",
+        "eloquent",
+        "caching",
+        "remember"
+    ],
+    "license": "MIT",
+    "require": {
+        "php": "^8.0",
+        "illuminate/database": "^8.0|^9.0",
+        "illuminate/support": "^8.0|^9.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Watson\\Rememberable\\": "src/"
+        }
+    }
+}
